@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cryptonite</title>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+
+    <!-- <script src="https://canvasjs.com/assets/script/jquery.canvasjs.min.js"></script> -->
+    <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script src="resources/example_chartOptions.js"></script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="cryptonite.css">
+</head>
+
+
+<body>
+    <div class="jumbotron jumbotron-fluid">
+        <h1 class="display-4">Cryptonite</h1>
+        <div class="pic"></div>
+        <img src="/pic/pngegg.png">
+    </div>
+    <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+        <button id="home" type="button" class="btn btn-outline-success" onclick="ToPage(event)">Home</button>
+        <button id="reports" type="button" class="btn btn-outline-success" onclick="ToPage(event)">Live Reports</button>
+        <button id="about" type="button" class="btn btn-outline-success" onclick="ToPage(event)">About</button>
+        <div class="form-inline">
+            <input id="inputSearch" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" id="search">Search</button>
+        </div>
+    </nav>
+
+    <div id="pageContainer" class="container">
+
+    </div>
+
+    <div class="bg_Popup">
+        <div class="reportsView">
+            <button onclick="CloseReports()">Close</button>
+            <ul id="reportsList"></ul>
+        </div>
+    </div>
+
+    <script src="cryptonite.js?v=1.0"></script>
+</body>
+
+</html>

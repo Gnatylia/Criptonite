@@ -1,0 +1,21 @@
+<div>
+    <div class="card" style="width: 18rem;" itemId="${id}">
+        <div class="card-body">
+
+            <!-- Default switch -->
+            <div class="custom-control custom-switch" id="swichCard">
+                <input type="checkbox" class="custom-control-input" onclick="ToggleReport(this,'${id}')" id="customSwitches_${id}">
+                <label class="custom-control-label" for="customSwitches_${id}"></label>
+                <!-- <label class="custom-control-label" for="customSwitches">Toggle this switch element</label> -->
+            </div>
+
+            <p class="card-text"></p>
+            <value fieldName="symbol">${symbol}</value>
+            <p class="card-text"></p>
+            <value fieldName="name">${name}</value><br>
+            <a href="javascript:void(0)" class="btn btn-primary" expended="false" onclick="ToggleInfo(this,'${id}')">More Info</a>
+            <div class="moreinfo"></div>
+        </div>
+
+    </div>
+</div>

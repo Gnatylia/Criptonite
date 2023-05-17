@@ -1,0 +1,118 @@
+/* cryptonite.css */
+
+.card {
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px silver;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.moreinfo {
+    margin: 10px;
+}
+
+.moreinfo label {
+    margin: 0 10px;
+}
+
+.moreinfo value {
+    color: gray;
+}
+
+li {
+    list-style-type: none;
+}
+
+.chartContainer {
+    height: 370px;
+    width: 100%;
+}
+
+
+/* .container {
+    width: 100%;
+    max-height: 500px;
+    overflow-y: auto;
+} */
+
+div.jumbotron {
+    padding: 1rem;
+    border-bottom: black 2px solid;
+    margin-left: 8px;
+    margin-right: 8px;
+    background-color:rgb(213, 230, 224);
+}
+
+.bg_Popup {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(180, 180, 180, 0.5);
+    z-index: 5;
+    top: 0px;
+    left: 0px;
+    display: none;
+}
+
+#reportsList {
+    width: 100%;
+    height: 400px;
+    display: block;
+}
+
+.reportsView {
+    width: 500px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: white;
+}
+
+.reportCard {
+    padding: 10px;
+    margin: 10px;
+}
+
+.reportsView li:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.reportCard button {
+    float: right;
+}
+
+.warn {
+    background-color: sandybrown;
+    color: darkblue;
+    font-size: 1.2em;
+    padding: 10px;
+    margin: 10px;
+}
+
+#swichCard > *{
+left:200px;
+}
+
+
+.pic{
+    position:absolute;
+    width: 120px;
+    height: 121px;
+    top:10px;
+    right: 10px;
+    display: inline-block;
+    z-index: -20;
+    border: 2px solid black;
+   
+}
+
+img{
+    position: absolute;
+    background-color:rgb(213, 230, 224);
+    width: 120px;
+    height: 120px;
+    top:10px;
+    right: 8px;
+    z-index: 30;
+}

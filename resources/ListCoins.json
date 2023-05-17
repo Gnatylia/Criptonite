@@ -1,0 +1,622 @@
+[
+    {
+        "id": "1ai",
+        "symbol": "1ai",
+        "name": "1AI"
+      },
+      {
+        "id": "1clicktoken",
+        "symbol": "1ct",
+        "name": "1ClickToken"
+      },
+      {
+        "id": "1irstcoin",
+        "symbol": "fst",
+        "name": "1irstcoin"
+      },
+      {
+        "id": "1million-token",
+        "symbol": "1mt",
+        "name": "1Million Token"
+      },
+      {
+        "id": "1sg",
+        "symbol": "1sg",
+        "name": "1SG"
+      },
+      {
+        "id": "1world",
+        "symbol": "1wo",
+        "name": "1World"
+      },
+      {
+        "id": "1x2-coin",
+        "symbol": "1x2",
+        "name": "1X2 Coin"
+      },
+      {
+        "id": "1x-long-btc-implied-volatility-token",
+        "symbol": "bvol",
+        "name": "Bitcoin Volatility Token"
+      },
+      {
+        "id": "1x-short-algorand-token",
+        "symbol": "algohedge",
+        "name": "1X Short Algorand Token"
+      },
+      {
+        "id": "1x-short-altcoin-index-token",
+        "symbol": "althedge",
+        "name": "1X Short Altcoin Index Token"
+      },
+      {
+        "id": "1x-short-bilira-token",
+        "symbol": "trybhedge",
+        "name": "1X Short BiLira Token"
+      },
+      {
+        "id": "1x-short-bitcoin-cash-token",
+        "symbol": "bchhedge",
+        "name": "1X Short Bitcoin Cash Token"
+      },
+      {
+        "id": "1x-short-bitcoin-sv-token",
+        "symbol": "bsvhedge",
+        "name": "1X Short Bitcoin SV Token"
+      },
+      {
+        "id": "1x-short-bitcoin-token",
+        "symbol": "hedge",
+        "name": "1X Short Bitcoin Token"
+      },
+      {
+        "id": "1x-short-btc-implied-volatility",
+        "symbol": "ibvol",
+        "name": "Inverse Bitcoin Volatility Token"
+      },
+      {
+        "id": "1x-short-defi-index-token",
+        "symbol": "defihedge",
+        "name": "1X Short DeFi Index Token"
+      },
+      {
+        "id": "1x-short-dragon-index-token",
+        "symbol": "drgnhedge",
+        "name": "1X Short Dragon Index Token"
+      },
+      {
+        "id": "1x-short-eos-token",
+        "symbol": "eoshedge",
+        "name": "1X Short EOS Token"
+      },
+      {
+        "id": "1x-short-ethereum-token",
+        "symbol": "ethhedge",
+        "name": "1X Short Ethereum Token"
+      },
+      {
+        "id": "1x-short-exchange-token-index-token",
+        "symbol": "exchhedge",
+        "name": "1X Short Exchange Token Index Token"
+      },
+      {
+        "id": "1x-short-litecoin-token",
+        "symbol": "ltchedge",
+        "name": "1X Short Litecoin Token"
+      },
+      {
+        "id": "1x-short-midcap-index-token",
+        "symbol": "midhedge",
+        "name": "1X Short Midcap Index Token"
+      },
+      {
+        "id": "1x-short-privacy-index-token",
+        "symbol": "privhedge",
+        "name": "1X Short Privacy Index Token"
+      },
+      {
+        "id": "1x-short-shitcoin-index-token",
+        "symbol": "hedgeshit",
+        "name": "1X Short Shitcoin Index Token"
+      },
+      {
+        "id": "1x-short-tether-token",
+        "symbol": "usdthedge",
+        "name": "1X Short Tether Token"
+      },
+      {
+        "id": "21vianet-group-inc",
+        "symbol": "vnet.cx",
+        "name": "21Vianet Group, Inc."
+      },
+      {
+        "id": "2-2-4-4-8",
+        "symbol": "2248",
+        "name": "2+2=4+4=8"
+      },
+      {
+        "id": "2345-star-coin",
+        "symbol": "stc",
+        "name": "2345 Star Coin"
+      },
+      {
+        "id": "2acoin",
+        "symbol": "arms",
+        "name": "2ACoin"
+      },
+      {
+        "id": "2give",
+        "symbol": "2give",
+        "name": "2GIVE"
+      },
+      {
+        "id": "2key",
+        "symbol": "2key",
+        "name": "2key.network"
+      },
+      {
+        "id": "2x2",
+        "symbol": "2x2",
+        "name": "2X2"
+      },
+      {
+        "id": "300cubits",
+        "symbol": "teu",
+        "name": "300cubits"
+      },
+      {
+        "id": "300fit",
+        "symbol": "fit",
+        "name": "300FIT"
+      },
+      {
+        "id": "300token",
+        "symbol": "300",
+        "name": "300 Token"
+      },
+      {
+        "id": "360-tribe",
+        "symbol": "tribe",
+        "name": "360 Tribe"
+      },
+      {
+        "id": "3d-chain",
+        "symbol": "3dc",
+        "name": "3D-Chain"
+      },
+      {
+        "id": "3x-long-algorand-token",
+        "symbol": "algobull",
+        "name": "3X Long Algorand Token"
+      },
+      {
+        "id": "3x-long-altcoin-index-token",
+        "symbol": "altbull",
+        "name": "3X Long Altcoin Index Token"
+      },
+      {
+        "id": "3x-long-bilira-token",
+        "symbol": "trybbull",
+        "name": "3X Long BiLira Token"
+      },
+      {
+        "id": "3x-long-bitcoin-cash-token",
+        "symbol": "bchbull",
+        "name": "3X Long Bitcoin Cash Token"
+      },
+      {
+        "id": "3x-long-bitcoin-sv-token",
+        "symbol": "bsvbull",
+        "name": "3X Long Bitcoin SV Token"
+      },
+      {
+        "id": "3x-long-bitcoin-token",
+        "symbol": "bull",
+        "name": "3X Long Bitcoin Token"
+      },
+      {
+        "id": "3x-long-bitmax-token-token",
+        "symbol": "btmxbull",
+        "name": "3X Long BitMax Token Token"
+      },
+      {
+        "id": "3x-long-bnb-token",
+        "symbol": "bnbbull",
+        "name": "3X Long BNB Token"
+      },
+      {
+        "id": "3x-long-cardano-token",
+        "symbol": "adabull",
+        "name": "3X Long Cardano Token"
+      },
+      {
+        "id": "3x-long-chainlink-token",
+        "symbol": "linkbull",
+        "name": "3X Long Chainlink Token"
+      },
+      {
+        "id": "3x-long-cosmos-token",
+        "symbol": "atombull",
+        "name": "3X Long Cosmos Token"
+      },
+      {
+        "id": "3x-long-defi-index-token",
+        "symbol": "defibull",
+        "name": "3X Long DeFi Index Token"
+      },
+      {
+        "id": "3x-long-dogecoin-token",
+        "symbol": "dogebull",
+        "name": "3X Long Dogecoin Token"
+      },
+      {
+        "id": "3x-long-dragon-index-token",
+        "symbol": "drgnbull",
+        "name": "3X Long Dragon Index Token"
+      },
+      {
+        "id": "3x-long-eos-token",
+        "symbol": "eosbull",
+        "name": "3X Long EOS Token"
+      },
+      {
+        "id": "3x-long-ethereum-classic-token",
+        "symbol": "etcbull",
+        "name": "3X Long Ethereum Classic Token"
+      },
+      {
+        "id": "3x-long-ethereum-token",
+        "symbol": "ethbull",
+        "name": "3X Long Ethereum Token"
+      },
+      {
+        "id": "3x-long-exchange-token-index-token",
+        "symbol": "exchbull",
+        "name": "3X Long Exchange Token Index Token"
+      },
+      {
+        "id": "3x-long-huobi-token-token",
+        "symbol": "htbull",
+        "name": "3X Long Huobi Token Token"
+      },
+      {
+        "id": "3x-long-leo-token",
+        "symbol": "leobull",
+        "name": "3X Long LEO Token"
+      },
+      {
+        "id": "3x-long-litecoin-token",
+        "symbol": "ltcbull",
+        "name": "3X Long Litecoin Token"
+      },
+      {
+        "id": "3x-long-matic-token",
+        "symbol": "maticbull",
+        "name": "3X Long Matic Token"
+      },
+      {
+        "id": "3x-long-midcap-index-token",
+        "symbol": "midbull",
+        "name": "3X Long Midcap Index Token"
+      },
+      {
+        "id": "3x-long-okb-token",
+        "symbol": "okbbull",
+        "name": "3X Long OKB Token"
+      },
+      {
+        "id": "3x-long-pax-gold-token",
+        "symbol": "paxgbull",
+        "name": "3X Long PAX Gold Token"
+      },
+      {
+        "id": "3x-long-privacy-index-token",
+        "symbol": "privbull",
+        "name": "3X Long Privacy Index Token"
+      },
+      {
+        "id": "3x-long-shitcoin-index-token",
+        "symbol": "bullshit",
+        "name": "3X Long Shitcoin Index Token"
+      },
+      {
+        "id": "3x-long-swipe-token",
+        "symbol": "sxpbull",
+        "name": "3X Long Swipe Token"
+      },
+      {
+        "id": "3x-long-tether-gold-token",
+        "symbol": "xautbull",
+        "name": "3X Long Tether Gold Token"
+      },
+      {
+        "id": "3x-long-tether-token",
+        "symbol": "usdtbull",
+        "name": "3X Long Tether Token"
+      },
+      {
+        "id": "3x-long-tezos-token",
+        "symbol": "xtzbull",
+        "name": "3X Long Tezos Token"
+      },
+      {
+        "id": "3x-long-tomochain-token",
+        "symbol": "tomobull",
+        "name": "3X Long TomoChain Token"
+      },
+      {
+        "id": "3x-long-trx-token",
+        "symbol": "trxbull",
+        "name": "3X Long TRX Token"
+      },
+      {
+        "id": "3x-long-xrp-token",
+        "symbol": "xrpbull",
+        "name": "3X Long XRP Token"
+      },
+      {
+        "id": "3x-short-algorand-token",
+        "symbol": "algobear",
+        "name": "3X Short Algorand Token"
+      },
+      {
+        "id": "3x-short-altcoin-index-token",
+        "symbol": "altbear",
+        "name": "3X Short Altcoin Index Token"
+      },
+      {
+        "id": "3x-short-bilira-token",
+        "symbol": "trybbear",
+        "name": "3X Short BiLira Token"
+      },
+      {
+        "id": "3x-short-bitcoin-cash-token",
+        "symbol": "bchbear",
+        "name": "3X Short Bitcoin Cash Token"
+      },
+      {
+        "id": "3x-short-bitcoin-sv-token",
+        "symbol": "bsvbear",
+        "name": "3X Short Bitcoin SV Token"
+      },
+      {
+        "id": "3x-short-bitcoin-token",
+        "symbol": "bear",
+        "name": "3X Short Bitcoin Token"
+      },
+      {
+        "id": "3x-short-bitmax-token-token",
+        "symbol": "btmxbear",
+        "name": "3X Short BitMax Token Token"
+      },
+      {
+        "id": "3x-short-bnb-token",
+        "symbol": "bnbbear",
+        "name": "3X Short BNB Token"
+      },
+      {
+        "id": "3x-short-cardano-token",
+        "symbol": "adabear",
+        "name": "3X Short Cardano Token"
+      },
+      {
+        "id": "3x-short-chainlink-token",
+        "symbol": "linkbear",
+        "name": "3X Short Chainlink Token"
+      },
+      {
+        "id": "3x-short-cosmos-token",
+        "symbol": "atombear",
+        "name": "3X Short Cosmos Token"
+      },
+      {
+        "id": "3x-short-defi-index-token",
+        "symbol": "defibear",
+        "name": "3X Short DeFi Index Token"
+      },
+      {
+        "id": "3x-short-dogecoin-token",
+        "symbol": "dogebear",
+        "name": "3X Short Dogecoin Token"
+      },
+      {
+        "id": "3x-short-dragon-index-token",
+        "symbol": "drgnbear",
+        "name": "3X Short Dragon Index Token"
+      },
+      {
+        "id": "3x-short-eos-token",
+        "symbol": "eosbear",
+        "name": "3X Short EOS Token"
+      },
+      {
+        "id": "3x-short-ethereum-classic-token",
+        "symbol": "etcbear",
+        "name": "3X Short Ethereum Classic Token"
+      },
+      {
+        "id": "3x-short-ethereum-token",
+        "symbol": "ethbear",
+        "name": "3X Short Ethereum Token"
+      },
+      {
+        "id": "3x-short-exchange-token-index-token",
+        "symbol": "exchbear",
+        "name": "3X Short Exchange Token Index Token"
+      },
+      {
+        "id": "3x-short-huobi-token-token",
+        "symbol": "htbear",
+        "name": "3X Short Huobi Token Token"
+      },
+      {
+        "id": "3x-short-leo-token",
+        "symbol": "leobear",
+        "name": "3X Short LEO Token"
+      },
+      {
+        "id": "3x-short-litecoin-token",
+        "symbol": "ltcbear",
+        "name": "3X Short Litecoin Token"
+      },
+      {
+        "id": "3x-short-matic-token",
+        "symbol": "maticbear",
+        "name": "3X Short Matic Token"
+      },
+      {
+        "id": "3x-short-midcap-index-token",
+        "symbol": "midbear",
+        "name": "3X Short Midcap Index Token"
+      },
+      {
+        "id": "3x-short-okb-token",
+        "symbol": "okbbear",
+        "name": "3X Short OKB Token"
+      },
+      {
+        "id": "3x-short-pax-gold-token",
+        "symbol": "paxgbear",
+        "name": "3X Short PAX Gold Token"
+      },
+      {
+        "id": "3x-short-privacy-index-token",
+        "symbol": "privbear",
+        "name": "3X Short Privacy Index Token"
+      },
+      {
+        "id": "3x-short-shitcoin-index-token",
+        "symbol": "bearshit",
+        "name": "3X Short Shitcoin Index Token"
+      },
+      {
+        "id": "3x-short-tether-gold-token",
+        "symbol": "xautbear",
+        "name": "3X Short Tether Gold Token"
+      },
+      {
+        "id": "3x-short-tether-token",
+        "symbol": "usdtbear",
+        "name": "3X Short Tether Token"
+      },
+      {
+        "id": "3x-short-tezos-token",
+        "symbol": "xtzbear",
+        "name": "3X Short Tezos Token"
+      },
+      {
+        "id": "3x-short-tomochain-token",
+        "symbol": "tomobear",
+        "name": "3X Short TomoChain Token"
+      },
+      {
+        "id": "3x-short-trx-token",
+        "symbol": "trxbear",
+        "name": "3X Short TRX Token"
+      },
+      {
+        "id": "3x-short-xrp-token",
+        "symbol": "xrpbear",
+        "name": "3X Short XRP Token"
+      },
+      {
+        "id": "404",
+        "symbol": "404",
+        "name": "404"
+      },
+      {
+        "id": "42-coin",
+        "symbol": "42",
+        "name": "42-coin"
+      },
+      {
+        "id": "4a-coin",
+        "symbol": "4ac",
+        "name": "4A Coin"
+      },
+      {
+        "id": "4artechnologies",
+        "symbol": "4art",
+        "name": "4ART Coin"
+      },
+      {
+        "id": "4hiphop",
+        "symbol": "hiphop",
+        "name": "4Hiphop"
+      },
+      {
+        "id": "4new",
+        "symbol": "kwatt",
+        "name": "4New"
+      },
+      {
+        "id": "4xbit",
+        "symbol": "4xb",
+        "name": "4xBit"
+      },
+      {
+        "id": "502-bad-gateway-token",
+        "symbol": "z502",
+        "name": "502 Bad Gateway Token"
+      },
+      {
+        "id": "520",
+        "symbol": "520",
+        "name": "520"
+      },
+      {
+        "id": "6ix9ine-chain",
+        "symbol": "69c",
+        "name": "6ix9ine Chain"
+      },
+      {
+        "id": "777-bingo",
+        "symbol": "777",
+        "name": "777.Bingo"
+      },
+      {
+        "id": "7chain",
+        "symbol": "vii",
+        "name": "7Chain"
+      },
+      {
+        "id": "7eleven",
+        "symbol": "7e",
+        "name": "7ELEVEN"
+      },
+      {
+        "id": "808coin",
+        "symbol": "808",
+        "name": "808Coin"
+      },
+      {
+        "id": "808ta-token",
+        "symbol": "808ta",
+        "name": "808TA Token"
+      },
+      {
+        "id": "8848-chain",
+        "symbol": "vec",
+        "name": "8848 Chain"
+      },
+      {
+        "id": "888tron",
+        "symbol": "888",
+        "name": "888tron"
+      },
+      {
+        "id": "8bit",
+        "symbol": "8bit",
+        "name": "8Bit"
+      },
+      {
+        "id": "8x8-protocol",
+        "symbol": "exe",
+        "name": "8X8 Protocol"
+      },
+      {
+        "id": "999",
+        "symbol": "999",
+        "name": "999"
+      }
+]
